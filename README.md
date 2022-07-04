@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello profile stalker 👋
 
 ![Beomjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chbeomjunn&count_private=true&show_icons=true&theme=tokyonight)
 
